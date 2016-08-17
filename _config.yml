@@ -1,0 +1,14 @@
+layout_spectrum: 0.3158705325331539
+typography_spectrum: 0.067622299073264
+color:
+  brandStrength: 0.12575781857594848
+  lightness: 0.2492909065913409
+  saturation: 0.6041502684820443
+  rhythmicContrast: 0.7350581409409642
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: FXWorld
