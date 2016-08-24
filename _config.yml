@@ -12,5 +12,9 @@ color:
     - '#F26101'
 layout_spectrum: 0.3158705325331539
 name: FXWorld
+navigation:
+  - name: StepCoin
+    url: 'http://stepcoin.net/docs/presentationEn.pdf'
+    type: external
 title: 'StepCoin '
 description: 'Move to Earn '
